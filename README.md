@@ -59,10 +59,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yangh9&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00&locale=cn)](https://github.com/yangh9)
 
-![](https://github-stats.rgb39.top/api/top-langs/?username=yangh9&layout=compact&locale=cn)
-
-![](https://github-stats.rgb39.top/api?username=yangh9&locale=cn)
-
 # [网站导航](https://yangh9.github.io/)
 
 **yangh9/yangh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
