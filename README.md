@@ -55,9 +55,13 @@
 [![](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-[![](https://github-readme-stats.vercel.app/api?username=yangh9&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true)](https://github.com/yangh9)
+[![](https://github-readme-stats.vercel.app/api?username=yangh9&title_color=ff69b4&text_color=718096&bg_color=ffffff00&icon_color=87ceeb&show_icons=true&locale=cn)](https://github.com/yangh9)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yangh9&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00)](https://github.com/yangh9)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yangh9&title_color=ff69b4&text_color=718096&icon_color=87ceeb&bg_color=ffffff00&locale=cn)](https://github.com/yangh9)
+
+![](https://github-stats.rgb39.top/api/top-langs/?username=yangh9&layout=compact&locale=cn)
+
+![](https://github-stats.rgb39.top/api?username=yangh9&locale=cn)
 
 # [网站导航](https://yangh9.github.io/)
 
